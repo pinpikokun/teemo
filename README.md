@@ -1,5 +1,4 @@
-# teemo
-- on duty!
+# Don't Starve Together Mod Character
 
 ## steam url
 
